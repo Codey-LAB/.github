@@ -1,19 +1,16 @@
 <!-- Codey-LAB · .github/profile/README.md -->
-
 <p align="center">
-  <a href="https://github.com/volkansah/codey/">
+  <a href="https://github.com/VolkanSah/Codey/">
     <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg"
          alt="Codey"
          width="100%">
   </a>
+  ⭐ Star this organization's repository to let Codey-LAB grow: <a href="https://github.com/Codey-LAB/.github">https://github.com/Codey-LAB/.github</a>
 </p>
-
 <div align="center">
-
 
 # Codey-LAB
 ### *The Code Laboratory of Truth*
-
 > The web is flooded with fake AI tools, scam repos, and prompt garbage.  
 > We're here because someone has to be.
 
