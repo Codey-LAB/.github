@@ -1,19 +1,5 @@
 <!-- Codey-LAB · .github/profile/README.md -->
 
-<p align="center">
-  <a href="https://github.com/codey-lab/">
-    <img src="https://raw.githubusercontent.com/Codey-LAB/.github/refs/heads/main/profile/codey_social_cr_2026.jpg"
-         alt="Codey"
-         width="100%">
-  </a>
-  ⭐ Star this organization's repository to let Codey-LAB grow: <a href="https://github.com/Codey-LAB/.github">https://github.com/Codey-LAB/.github</a>
-</p>
-</div>
-
-
-
-
-
 # Codey-LAB
 ### *The Code Laboratory of Truth*
 > The web is flooded with fake AI tools, scam repos, and prompt garbage.  
@@ -24,7 +10,19 @@
 [![Entry](https://img.shields.io/badge/Entry-Codey%20Required-black?style=flat-square)](https://github.com/VolkanSah/Codey)
 [![WoS](https://img.shields.io/badge/Allied-Wall%20of%20Shames-darkred?style=flat-square)](https://github.com/Wall-of-Shames)
 
+
+<p align="center">
+  <a href="https://github.com/codey-lab/">
+    <img src="https://raw.githubusercontent.com/Codey-LAB/.github/refs/heads/main/profile/codey_social_cr_2026.jpg"
+         alt="Codey"
+         width="100%">
+  </a>
+  ⭐ Star this organization's repository to let Codey-LAB grow: <a href="https://github.com/Codey-LAB/.github">https://github.com/Codey-LAB/.github</a>
+</p>
 </div>
+
+  
+
 
 ---
 
