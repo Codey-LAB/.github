@@ -27,9 +27,9 @@
 
 ## Why This Lab Exists
 
-Look at [what's out there](https://github.com/Wall-of-Shames).
+Look at [what's out there](https://github.com/Wall-of-Shames) (till bilding). One word: SHAME! 
 
-API wrappers sold as "advanced AI hacking tools". WormGPT clones with Telegram payment funnels. Repos with thousands of forks built on stolen code and fake stars. Non-technical users — often young, often beginners — getting scammed by people who discovered that slapping "GPT" on a `requests.get()` call makes easy money.
+API wrappers sold as eg. "advanced AI hacking tools". eg. WormGPT clones with Telegram payment funnels. Repos with thousands of forks built on stolen code and fake stars. Non-technical users — often young, often beginners — getting scammed by people who discovered that slapping "GPT" on a `requests.get()` call makes easy money. And if i bust them! Ej is opensource! WTF! What? Let us wanna pul thhe crap!
 
 This is what happens when AI becomes easy to fake and hard to understand.
 
@@ -58,7 +58,11 @@ Everything here is battle-tested. Nothing here is tutorial code.
 
 Codey-LAB is a VIP space. Not elitism — verification.
 
-**To get in, you need [Codey](https://github.com/VolkanSah/Codey) running on your profile.**
+**To get in unstable und bugy always on, you need [Codey](https://github.com/VolkanSah/Codey) running on your profile.**
+> my private github account where I invent, transform, create, and destroy! "No Support" for Orgas here! Use Orga`s request, please!
+
+** Stable one, mean, to less real own or sharedmetrics**
+Download here please https://github.com/Codey-LAB/codey/ , thx.
 
 Codey tracks your real GitHub activity — commits, streaks, stars, contributions. It's a living proof-of-work. It proves you actually code, actually ship, and actually understand what you're working with. A dead pet doesn't lie. A scammer with zero real commits can't fake their way in.
 
