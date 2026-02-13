@@ -1,13 +1,18 @@
 <!-- Codey-LAB · .github/profile/README.md -->
+
 <p align="center">
-  <a href="https://github.com/VolkanSah/Codey/">
-    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg"
+  <a href="https://github.com/codey-lab/">
+    <img src="https://raw.githubusercontent.com/Codey-LAB/.github/refs/heads/main/profile/codey_social_cr_2026.jpg"
          alt="Codey"
          width="100%">
   </a>
   ⭐ Star this organization's repository to let Codey-LAB grow: <a href="https://github.com/Codey-LAB/.github">https://github.com/Codey-LAB/.github</a>
 </p>
-<div align="center">
+</div>
+
+
+
+
 
 # Codey-LAB
 ### *The Code Laboratory of Truth*
@@ -22,6 +27,27 @@
 </div>
 
 ---
+
+
+<details> 
+
+  <summary> -- Demo of Codey -- </summary>
+
+  ##### with default:skin/retro
+<div align="center">
+  
+<p align="center">
+  <a href="https://github.com/VolkanSah/Codey/">
+    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg"
+         alt="Codey"
+         width="100%">
+  </a>
+  ⭐ Star this organization's repository to let Codey-LAB grow: <a href="https://github.com/Codey-LAB/.github">https://github.com/Codey-LAB/.github</a>
+</p>
+</div>
+
+</details>
+
 
 ---
 
