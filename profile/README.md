@@ -115,9 +115,9 @@ ESOL means: authorized targets only, documented consent, no malware, no unauthor
 
 ## Maintainers
 
-[@VolkanSah](https://github.com/VolkanSah) · Founder · Prompt Architect · Codey's creator  
+[@VolkanSah](https://github.com/VolkanSah) · Founder · Prompt Architect · Codey's creator · Security · ESOL  and The explanaition 🐻 (Erklärbär)
 [@BadTin](https://github.com/BadTin) · Co-Founder · Security · ESOL  
-*and some cats*
+*and some cats* some dragons and batman! 😄
 
 ---
 
@@ -125,7 +125,7 @@ ESOL means: authorized targets only, documented consent, no malware, no unauthor
 
 *"AI is the sidekick. You are the senior."*
 
-**Codey-LAB** · Berlin · Est. 2026
+**Codey-LAB** · Berlin · Est. mean 03-2024 - 2026 still ic capter so much scam and fraud! 
 
 ---
 
