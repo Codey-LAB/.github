@@ -23,6 +23,8 @@
 
 ---
 
+---
+
 ## Why This Lab Exists
 
 Look at [what's out there](https://github.com/Wall-of-Shames).
@@ -113,8 +115,8 @@ ESOL means: authorized targets only, documented consent, no malware, no unauthor
 
 ## Maintainers
 
-[@VolkanSah](https://github.com/VolkanSah)//NFC · Founder · Prompt Architect · Codey-Lab's creator · Security · ESOL 
-[@BadTin](https://github.com/BadTin)//NFC · Co-Founder · Security · ESOL  
+[@VolkanSah](https://github.com/VolkanSah) · Founder · Prompt Architect · Codey's creator  
+[@BadTin](https://github.com/BadTin) · Co-Founder · Security · ESOL  
 *and some cats*
 
 ---
@@ -124,5 +126,9 @@ ESOL means: authorized targets only, documented consent, no malware, no unauthor
 *"AI is the sidekick. You are the senior."*
 
 **Codey-LAB** · Berlin · Est. 2026
+
+---
+
+**Note from the creator:** As the founder of Codey and Codey-LAB, I reserve the right to tighten entry requirements and adjust Codey's metrics at any time — without notice. If new scam patterns emerge, the door gets harder to open. That's not a bug, that's the point.
 
 </div>
