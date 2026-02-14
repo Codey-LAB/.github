@@ -173,6 +173,144 @@ ESOL means: authorized targets only, documented consent, no malware, no unauthor
 
 ---
 
+
+
+
+<details>
+<summary>Powerd by</summary>  
+
+---
+  
+<details>
+  
+<summary>PinkyDB</summary>  
+
+
+> [!IMPORTANT]
+> The PinkyDB Engine (EmojiQL) more than a joke;
+>
+> PinkyDB, while humorously branded, is an expertly engineered Micro-Engine adhering to modern database principles. The project successfully combines a chaotic façade with a clean, high-performance core.
+
+
+##### 
+
+                                                                                                                                                        
+                                                                                                                                                    
+
+
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                       ####                                   ####                                       
+                                   #############                         #############*                                  
+                                *#########+   ####              #      ####   *#########*                                
+                               ###  +++++####   ###+          ##     *###   ####+++++  ###                               
+                              *##  ++++++++###    ### ####..##*..## ###   *###++++++++  ###                              
+                              ##+ ++++++=#++###   ####=..*#######..####   ###++#=++++++  ##                              
+                              ##  ++++++++=#####   ........=###.......   #####=++++++++  ##                              
+                              ### +++++++++++=............-#-..............=+++++++++++ ###                              
+                               ##  ++++-.*############-............############-.+++++  ##                               
+                                ###  +++.+####    #################  ##########..+++  ###                                
+                                 ####   +..##*  ## ########   ###  ###########..+   ####                                 
+                                   *######.##### #########     ###############.#######                                   
+                                        *##.############ ..###-. ############.###                                        
+                                         ##   *######   .#+++++#=   #######   ##                                         
+                             *######################    .##=+=##.     #####################                              
+                                         ##* *######      .+#*.   :..:######  ##                                         
+                                     ########              .#.   .##=*.     ########                                     
+                                 ##         ####        ..########.      ####         ##        ==                       
+                                               ######=       .     #######+                  =====                       
+                             ########           ####....#########....#####                  === ==                       
+                           #####::#####        ####..###... ....#####.####         *####   ==                            
+                           #####::#####        ####.....#########*. ..=###*      ####=###==#####*####                    
+                           ##::::::::##############.###############+#.=####### ####======####.......##                   
+                           #####::#################:::.###########=---##### #####==##########.##..##.##                  
+                            ##########==+=========#+#####=-====+#####+#######################:  ....###                  
+                                ###################*#################+##*=++==*####++++==######..#.###                   
+                               ####..===...#############..##############++*##*+++#++####++##########                     
+                               ###..-####..# .#..++-..#..*...*#. ##..:#+++#####++#+++++++####                            
+                              ####.... ..*#. ##..###..#.....####. ..###++#####++#++####++*#############                  
+                             *###..*#######..#..###. #. *##..###...###++++++++###+++++++=####        #                   
+                      #########################################. ##########################*                             
+                             *######++++++++++++++++++++=+*##...###**###################*    ##                          
+                                             *###########################                  ###                           
+                                                     ################                                                    
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+
+                                                                                                                                            
+                                                                                                                                                              
+</details>                                                                                                                                               
+                                                                                                                                                              
+---                                                                                                                                                              
+                                                                                                                                                              
+<details>
+  
+<summary>PyFundaments</summary>  
+
+
+#### Core
+
+- https://github.com/VolkanSah/PyFundaments ( link is not brocken! is private!)
+- see /fundaments in this repo vor realy good basics. 
+
+
+
+</details>  
+
+  
+---     
+
+
+     
+<details>
+  
+<summary>Codey</summary>  
+
+
+#### Core
+
+- https://github.com/VolkanSah/codey (unstable)
+-  https://github.com/Codey-LAB//codey-latest (nightly)
+##### License
+
+</details>  
+                                                                                                                                                              
+</details>                                                                                                                                                           
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+ ---                                                                                                                                                        
+                                                                                                                                                              
+
+
 <div align="center">
 
 *"AI is the sidekick. You are the senior."*
@@ -181,6 +319,11 @@ ESOL means: authorized targets only, documented consent, no malware, no unauthor
 
 ---
 
-**Note from the creator:** As the founder of Codey and Codey-LAB, I reserve the right to tighten entry requirements and adjust Codey's metrics at any time — without notice. If new scam patterns emerge, the door gets harder to open. That's not a bug, that's the point.
+> **Note from the creator:** As the founder of Codey and Codey-LAB, I reserve the right to tighten entry requirements
+> and adjust Codey's metrics at any time — without notice. If new scam patterns emerge, the door gets harder to open. That's not a bug, that's the point.
 
+--- 
 </div>
+
+
+> **Licensing Statement:** > This Project (Work) is dual-licensed under the **[APACHE v.2 and later](LICENSE)** and the **Ethical Security Operations License [(ESOL v1.1)](https://github.com/ESOL-License) ** and later. The [ESOL](ESOL) is a mandatory, non-severable condition of use. By using this software, you agree to all ethical constraints defined in the ESOL v1.1.
