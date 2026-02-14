@@ -325,7 +325,7 @@ ESOL means: authorized targets only, documented consent, no malware, no unauthor
 
 #### Core
 
-- https://github.com/VolkanSah/PyFundaments ( link is not brocken! is private!)
+- https://github.com/VolkanSah/PyFundaments (link is not brocken! is private!)
 - see /fundaments in this repo vor realy good basics. 
 
 
@@ -345,7 +345,8 @@ ESOL means: authorized targets only, documented consent, no malware, no unauthor
 #### Core
 
 - https://github.com/VolkanSah/codey (unstable)
--  https://github.com/Codey-LAB//codey-latest (nightly)
+- https://github.com/Codey-LAB//codey-latest (nightly)
+-  
 ##### License
 
 </details>  
@@ -354,7 +355,24 @@ ESOL means: authorized targets only, documented consent, no malware, no unauthor
                                                                                                                                                               
                                                                                                                                                               
                                                                                                                                                               
- ---                                                                                                                                                        
+ ---    
+
+
+ <details>
+  
+<summary>Trouble?</summary>  
+
+
+#### Dosent work? 
+installed: 
+- https://github.com/VolkanSah/codey (unstable) ?
+- or https://github.com/Codey-LAB//codey-latest (nightly)`
+- see https://github.com/Codey-LAB/Documentation
+
+
+##### License 
+
+</details>  
                                                                                                                                                               
 
 
