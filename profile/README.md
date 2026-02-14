@@ -20,13 +20,14 @@
 
 
 <details> 
-<summary> -- Demo of Codey -- </summary>
+<summary>Demo of Codey</summary>
+
+### Skins
 
 <details> 
+<summary>default:skin/retro </summary>
 
-  <summary>--- with default:skin/retro --- </summary>
-
-##### retro
+##### chose skin = default
 
 <div align="center">
   
@@ -44,9 +45,10 @@
 </details> 
 
 <details> 
- <summary> soon </summary>
+<summary>coming soon skins </summary>
 
- ##### soon
+##### chose skin = 1
+for the young folk 😅
   
 <div align="center">
   
@@ -87,9 +89,13 @@ Codey-LAB is the answer to that. Not by shouting louder — but by raising the a
 
 ---
 
-## What Is Codey-LAB?
 
-A curated, invite-based knowledge lab for developers who use AI as a sidekick — not a ghostwriter, not a magic oracle, not a product to resell.
+<details> 
+  <summary> What Is Codey-LAB?</summary>
+
+### The Codey-LAB is a ...
+
+curated, invite-based knowledge lab for developers who use AI as a sidekick — not a ghostwriter, not a magic oracle, not a product to resell.
 
 We build and maintain:
 
@@ -100,9 +106,14 @@ We build and maintain:
 
 Everything here is battle-tested. Nothing here is tutorial code.
 
+</details>
+
 ---
 
-## The Door Policy
+<details> 
+<summary>The Door Policy!</summary>
+  
+### The Door Policy?
 
 Codey-LAB is a VIP space. Not elitism — verification.
 
@@ -119,9 +130,15 @@ No Codey = no metrics = no entry. Doesn't matter who you know.
 > Soon: Codey will track deeper engagement metrics.  
 > The door gets smarter as the scams get louder.
 
+</details>
+
 ---
 
-## The Level System
+<details> 
+<summary>The Level System</summary>
+
+#### OurLevel System with Codey
+
 
 Your Codey stats determine your access tier. This is verification, not gamification.
 
@@ -134,9 +151,14 @@ Your Codey stats determine your access tier. This is verification, not gamificat
 | `31–50` | Dragon | Full lab access · Architecture prompts · Red team templates |
 | `51+` | Prestige | Co-author rights · Invite others · You set the standards here |
 
+</details>
+
 ---
 
-## Lab Areas
+<details> 
+<summary>Lab Areas</summary>
+
+### The VIP CLUB FOR FREE! NON MONEY NO SCAM, JUST OPENSOURCE!
 
 ### `[AREA: PROMPTS]`
 The core of the lab. System prompts engineered to eliminate AI datamüll at the source — for every major model, tuned for senior dev workflows. No preambles. No summaries. No 500-token answers to a 2-line question.
@@ -154,8 +176,13 @@ GitHub automation that earns its place. Actions patterns, profile tooling, and t
 - [Codey](https://github.com/VolkanSah/Codey) — GitHub activity pet, gatekeeper, and honest mirror of your work. RPG No Mercy Edition.
 - [ESOL](https://github.com/ESOL-License/ESOL) — Ethical Security Operations License v1.1. For when Apache 2.0 isn't enough.
 - [Wall of Shames](https://github.com/Wall-of-Shames) — The other side. Documenting fake AI tools and scam repos so the community can see what they really are.
+- 
+</details>
+
 
 ---
+
+</details> 
 
 ## License & Ethics
 
