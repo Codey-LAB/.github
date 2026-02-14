@@ -372,13 +372,26 @@ installed:
 - see https://github.com/Codey-LAB/Documentation
 
 
-##### License 
+
+</details>  
+
+
+---
+
+
+<details>
+  
+<summary>AI</summary>  
+
+#### AI is the sidekic! You will be the senior!
+
+Thanks to , Ai.. soon
+
+
 
 </details>  
                                                                                                                                                               
-
-
-*"AI is the sidekick. You are the senior."*
+---
 
 **Codey-LAB** · Berlin · Est. mean 03-2024 - 2026 still i capter so much scam and fraud! 
 
