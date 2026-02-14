@@ -176,7 +176,9 @@ GitHub automation that earns its place. Actions patterns, profile tooling, and t
 - [Codey](https://github.com/VolkanSah/Codey) — GitHub activity pet, gatekeeper, and honest mirror of your work. RPG No Mercy Edition.
 - [ESOL](https://github.com/ESOL-License/ESOL) — Ethical Security Operations License v1.1. For when Apache 2.0 isn't enough.
 - [Wall of Shames](https://github.com/Wall-of-Shames) — The other side. Documenting fake AI tools and scam repos so the community can see what they really are.
-- 
+- [SDCPT](https://github.com/SDCPT) - Secret Division against Ctrl-C & Panic Technology
+- [NFC](https://github.com/NemesisCyberForce) - Guardian – Vengeance Technology – Retribution Security – Cyber Reprisal
+
 </details>
 
 
