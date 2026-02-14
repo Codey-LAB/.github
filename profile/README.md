@@ -11,15 +11,7 @@
 [![WoS](https://img.shields.io/badge/Allied-Wall%20of%20Shames-darkred?style=flat-square)](https://github.com/Wall-of-Shames)
 
 
-<p align="center">
-  <a href="https://github.com/codey-lab/">
-    <img src="https://raw.githubusercontent.com/Codey-LAB/.github/refs/heads/main/profile/codey_social_cr_2026.jpg"
-         alt="Codey"
-         width="100%">
-  </a>
-  ⭐ Star this organization's repository to let Codey-LAB grow: <a href="https://github.com/Codey-LAB/.github">https://github.com/Codey-LAB/.github</a>
-</p>
-</div>
+
 
   
 
@@ -28,10 +20,14 @@
 
 
 <details> 
+<summary> -- Demo of Codey -- </summary>
 
-  <summary> -- Demo of Codey -- </summary>
+<details> 
 
-  ##### with default:skin/retro
+  <summary>--- with default:skin/retro --- </summary>
+
+##### retro
+
 <div align="center">
   
 <p align="center">
@@ -44,6 +40,34 @@
 </p>
 </div>
 
+
+</details> 
+
+<details> 
+ <summary> soon </summary>
+
+ ##### soon
+  
+<div align="center">
+  
+<p align="center">
+  <a href="https://github.com/Codey-LAB">
+    <img src="https://raw.githubusercontent.com/Codey-LAB/.github/refs/heads/main/profile/codey_social_cr_2026.jpg"
+         alt="Codey"
+         width="100%">
+  </a>
+  ⭐ Star this organization's repository to let Codey-LAB grow: <a href="https://github.com/Codey-LAB/.github">https://github.com/Codey-LAB/.github</a>
+</p>
+</div>
+
+</details> 
+
+
+
+
+
+
+  
 </details>
 
 
