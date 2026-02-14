@@ -184,19 +184,39 @@ GitHub automation that earns its place. Actions patterns, profile tooling, and t
 
 </details> 
 
-## License & Ethics
+
+
+
+<details> 
+<summary> License & Ethics</summary>
+
+### Our License & Ethics Statement:
 
 All work is dual-licensed: **Apache 2.0** for the code, **ESOL v1.1** for all security-related use.
 
 ESOL means: authorized targets only, documented consent, no malware, no unauthorized scanning. Violation means immediate termination of rights, documentation, and potential reporting to law enforcement. We're not the fun police — we just don't protect people who weaponize open source against the people it was built to help.
 
+
+> **Licensing Statement:** > All work in this [Codey-LAB Project](https://github.com/Codey-LAB/) (the Work) is dual-licensed under the **[APACHE v.2](LICENSE) (and later)** and the **Ethical Security Operations License [(ESOL v1.1)](https://github.com/ESOL-License) ** (and later). The [ESOL-License](ESOL) is a mandatory, non-severable condition of use. By using this software, you agree to all ethical constraints defined in the ESOL v1.1.
+
+
+</details> 
+
+
 ---
 
-## Maintainers
+<details> 
+<summary>Maintainers</summary>
+
+##### The Wannabes of Codey-LAB aginst AI and KiddiFraud 
+> we have noch Insta or Facebook scam sorry!
 
 [@VolkanSah](https://github.com/VolkanSah) · Founder · Prompt Architect · Codey's creator · Security · ESOL  and The explanaition 🐻 (Erklärbär)
 [@BadTin](https://github.com/BadTin) · Co-Founder · Security · ESOL  
 *and some cats* some dragons and batman! 😄
+
+</details> 
+
 
 ---
 
@@ -338,19 +358,13 @@ ESOL means: authorized targets only, documented consent, no malware, no unauthor
                                                                                                                                                               
 
 
-<div align="center">
-
 *"AI is the sidekick. You are the senior."*
 
-**Codey-LAB** · Berlin · Est. mean 03-2024 - 2026 still ic capter so much scam and fraud! 
-
----
+**Codey-LAB** · Berlin · Est. mean 03-2024 - 2026 still i capter so much scam and fraud! 
 
 > **Note from the creator:** As the founder of Codey and Codey-LAB, I reserve the right to tighten entry requirements
 > and adjust Codey's metrics at any time — without notice. If new scam patterns emerge, the door gets harder to open. That's not a bug, that's the point.
 
---- 
-</div>
 
 
-> **Licensing Statement:** > This Project (Work) is dual-licensed under the **[APACHE v.2 and later](LICENSE)** and the **Ethical Security Operations License [(ESOL v1.1)](https://github.com/ESOL-License) ** and later. The [ESOL](ESOL) is a mandatory, non-severable condition of use. By using this software, you agree to all ethical constraints defined in the ESOL v1.1.
+
