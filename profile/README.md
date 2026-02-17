@@ -49,18 +49,7 @@
 
 ##### chose skin = 1
 for the young folk 😅
-  
-<div align="center">
-  
-<p align="center">
-  <a href="https://github.com/Codey-LAB">
-    <img src="https://raw.githubusercontent.com/Codey-LAB/.github/refs/heads/main/profile/codey_social_cr_2026.jpg"
-         alt="Codey"
-         width="100%">
-  </a>
-  ⭐ Star this organization's repository to let Codey-LAB grow: <a href="https://github.com/Codey-LAB/.github">https://github.com/Codey-LAB/.github</a>
-</p>
-</div>
+
 
 </details> 
 
