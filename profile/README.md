@@ -23,33 +23,36 @@
 <summary>Demo of Codey</summary>
 
 ### Skins
+till yet 😿
 
 <details> 
 <summary>default:skin/retro </summary>
 
 ##### chose skin = default
 
-<div align="center">
-  
-<p align="center">
-  <a href="https://github.com/VolkanSah/Codey/">
-    <img src="https://raw.githubusercontent.com/VolkanSah/Codey/main/codey.svg"
-         alt="Codey"
-         width="100%">
-  </a>
-  ⭐ Star this organization's repository to let Codey-LAB grow: <a href="https://github.com/Codey-LAB/.github">https://github.com/Codey-LAB/.github</a>
-</p>
-</div>
-
+![Codey Skin default](https://github.com/Codey-LAB/.github/blob/main/profile/img/default.jpg)
 
 </details> 
 
+
 <details> 
-<summary>coming soon skins </summary>
+<summary>default:skin/retro </summary>
 
-##### chose skin = 1
-for the young folk 😅
+##### chose skin = default
 
+![Codey Skin default](https://github.com/Codey-LAB/.github/blob/main/profile/img/cat.jpg)
+
+</details> 
+
+
+<details> 
+<summary>default:skin/retro </summary>
+
+##### chose skin = default
+
+![Codey Skin default](https://github.com/Codey-LAB/.github/blob/main/profile/img/cuty.jpg)
+
+</details> 
 
 </details> 
 
