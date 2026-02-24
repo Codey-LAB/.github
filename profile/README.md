@@ -22,7 +22,7 @@
 <details> 
 <summary>Demo of Codey</summary>
 
-### Skins
+### Screenshots
 till yet 😿
 
 <details> 
@@ -36,7 +36,7 @@ till yet 😿
 
 
 <details> 
-<summary>default:skin/retro </summary>
+<summary>default:skin/cat </summary>
 
 ##### chose skin = default
 
@@ -46,7 +46,7 @@ till yet 😿
 
 
 <details> 
-<summary>default:skin/retro </summary>
+<summary>default:skin/cuty </summary>
 
 ##### chose skin = default
 
