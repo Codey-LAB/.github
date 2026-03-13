@@ -20,10 +20,10 @@
 
 
 <details> 
-<summary>Demo of Codey</summary>
+<summary>Demo of Codey Mascot</summary>
 
 ### Screenshots
-till yet 😿
+till yet 😿 and under dev!
 
 <details> 
 <summary>default:skin/retro </summary>
@@ -53,6 +53,8 @@ till yet 😿
 ![Codey Skin default](https://github.com/Codey-LAB/.github/blob/main/profile/img/cuty.jpg)
 
 </details> 
+
+- BSOD, Ghost(y) in the shell and many more soon
 
 </details> 
 
