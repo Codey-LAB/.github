@@ -154,8 +154,11 @@ Your Codey stats determine your access tier. This is verification, not gamificat
 
 ### The VIP CLUB FOR FREE! NON MONEY NO SCAM, JUST OPENSOURCE!
 
+### `[AREA: FREE REPOS]`
+"We won't reinvent the wheel, but we’ll definitely give it a better spin. Check our public repos for (crazy) projects that run smoothly on pure simplicity - zero bloat, no 10GB node_modules manuals required.."
+
 ### `[AREA: PROMPTS]`
-The core of the lab. System prompts engineered to eliminate AI datamüll at the source — for every major model, tuned for senior dev workflows. No preambles. No summaries. No 500-token answers to a 2-line question.
+The core of the codey [awesome-prompting](https://github.com/awesome-prompting) lab is: System prompts engineered to eliminate AI datamtrash at the source — for every major model, tuned for senior dev workflows. No preambles. No summaries. No 500-token answers to a 2-line question.
 
 ### `[AREA: SEC]`
 Security tooling and prompts under ESOL v1.1. Blue team, authorized red team, code audits, hardening. Allied with [Wall of Shames](https://github.com/Wall-of-Shames) — the same team, the other side of the work.
